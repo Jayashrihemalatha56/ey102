@@ -9,6 +9,6 @@ public class DemoController {
 	@GetMapping
 	public String home()
 	{
-		return "Welcome Spring Boot Jenkins Job";
+		return "Welcome to Spring webpage";
 	}
 }
